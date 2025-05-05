@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Visual"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Date"
         },
         {
@@ -306,7 +302,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:22:52.397Z",
+    "updated_at": "2025-05-05T20:22:56.560Z",
     "generate_pages_site": true
   },
   "annotations": {},
