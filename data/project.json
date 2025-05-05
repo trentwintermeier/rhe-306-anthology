@@ -14,12 +14,12 @@
   "project": {
     "github_org": "trentwintermeier",
     "is_private": false,
-    "title": "RHR 306 Anthology",
-    "description": "This is an anthology of AVAnnotate projects developed for RHE 306: Rhetoric and Writing.",
+    "title": "RHE 306 Anthology",
+    "description": "This is an anthology of AVAnnotate projects developed for RHE 306: Rhetoric and Writing. Throughout the semester, we have built skills in written argumentation, crafting essays that explore different aspects of gentrification and propose actionable solutions. \n\nFor this project, we were tasked to rethink how arguments about gentrification function differently in digital spaces—through sound, image, and voice. We returned to the proposal argument in the prior unit and reimagined it through a multimedia lens. Using AVAnnotate, we produced original audio or video compositions—ranging from podcasts to TED Talk-style videos—paired with annotations that examine the rhetorical strategies at play alongside a transcript.",
     "language": "en",
     "slug": "rhe-306-anthology",
     "creator": "trentwintermeier",
-    "authors": "",
+    "authors": "Students from RHE 306",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -254,7 +254,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:28:08.680Z",
+    "updated_at": "2025-05-05T20:49:36.478Z",
     "generate_pages_site": true
   },
   "annotations": {},
