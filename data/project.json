@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Community Character"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Urban Planning"
         },
         {
@@ -370,7 +366,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:21:55.119Z",
+    "updated_at": "2025-05-05T20:21:57.678Z",
     "generate_pages_site": true
   },
   "annotations": {},
