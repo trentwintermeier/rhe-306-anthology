@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Local Economy"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Development"
         },
         {
@@ -406,7 +402,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:19:46.396Z",
+    "updated_at": "2025-05-05T20:19:49.617Z",
     "generate_pages_site": true
   },
   "annotations": {},
