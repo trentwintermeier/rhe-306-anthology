@@ -1,1 +1,307 @@
-{"annotations":[],"set":"Default","event_id":"1d23cf44-1f84-4436-8bc4-aaad6b0eb35a","source_id":"846886d8-78b4-4fd5-972f-0e0ccd180825"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction: I will introduce what we are talking about"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "fe2ac91d-c0f0-4572-95e8-b32385b0d251"
+    },
+    {
+      "start_time": 24,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is gentrification? We will define gentrification in summary"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Communicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        }
+      ],
+      "uuid": "fb7b5745-9f64-4bf9-bd30-99859847c560"
+    },
+    {
+      "start_time": 53,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is gentrification? We will give the two main sides of gentrification. How some people see it as a good thing while others a bad thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional"
+        }
+      ],
+      "uuid": "a777c906-529e-4351-86fc-daa85cf87ab0"
+    },
+    {
+      "start_time": 76,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of both Natalies: introduce their names and where they are from"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Introduction"
+        }
+      ],
+      "uuid": "a71a1ade-2909-415e-90f3-3d39b964ddd4"
+    },
+    {
+      "start_time": 98,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of both Natalies: Natalie Bueno talks about her recent move to Terrel Texas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal experience"
+        }
+      ],
+      "uuid": "7548aeaf-3baf-4236-ba24-603092e7af4e"
+    },
+    {
+      "start_time": 149,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of both Natalies: they will talk about their personal thoughts on gentrification"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Body language"
+        }
+      ],
+      "uuid": "90f64f7e-aedf-450b-8013-9a7f65d70848"
+    },
+    {
+      "start_time": 219,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the two projects about gentrification?: Describe what the anti-displacement toolkit is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        }
+      ],
+      "uuid": "53a0abb5-6d97-4f28-99b5-e927ff151eed"
+    },
+    {
+      "start_time": 282,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the two projects about gentrification?: Describe what the forwarddallas 2.0 plan is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Informative"
+        }
+      ],
+      "uuid": "b4ee9a45-3c2c-4301-ac4e-0c3f3faf076d"
+    },
+    {
+      "start_time": 324,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the two projects about gentrification?: compare the both, discuss which one I think is best"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        }
+      ],
+      "uuid": "bc8ed92a-f983-44f8-ac55-e91cb99b42f8"
+    },
+    {
+      "start_time": 389,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinions: Both Bueno and Garcia will share their opinions on the projects and we will continue to talk about the one we think is better."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        }
+      ],
+      "uuid": "7e75330b-5f85-40f0-8f9a-6286f83fb9f7"
+    },
+    {
+      "start_time": 551,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interviews: There are 6 questions regarding gentrification, their experiences, and the plans that I would like to ask them about, with a bit of background noise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Communicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview"
+        }
+      ],
+      "uuid": "8638a8ce-4cd6-4b3b-b82c-f8af64aec435"
+    },
+    {
+      "start_time": 1327,
+      "end_time": 1340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ending: I will say my thank yous to them and to the listeners."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone of Voice"
+        }
+      ],
+      "uuid": "84b970ba-22dd-44a5-96b2-2db05a3f1f53"
+    }
+  ],
+  "set": "Default",
+  "event_id": "1d23cf44-1f84-4436-8bc4-aaad6b0eb35a",
+  "source_id": "846886d8-78b4-4fd5-972f-0e0ccd180825"
+}
