@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Community Values"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Cautionary Message"
         },
         {
@@ -342,7 +338,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:22:25.978Z",
+    "updated_at": "2025-05-05T20:22:29.114Z",
     "generate_pages_site": true
   },
   "annotations": {},
