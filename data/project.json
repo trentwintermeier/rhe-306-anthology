@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "trentwintermeier",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T18:34:51.659Z"
-  }
+    "updated_at": "2025-05-05T18:34:51.659Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "e622f45f-32f1-4a1e-aa88-1ab57e1ae67f": {
+      "content": [],
+      "created_at": "2025-05-05T18:34:51.695Z",
+      "created_by": "trentwintermeier",
+      "title": "RHR 306 Anthology",
+      "updated_at": "2025-05-05T18:34:51.695Z",
+      "updated_by": "trentwintermeier",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "e622f45f-32f1-4a1e-aa88-1ab57e1ae67f"
+  ]
 }
