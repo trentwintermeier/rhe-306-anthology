@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Hope"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Call to Action"
         },
         {
@@ -330,7 +326,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:22:34.899Z",
+    "updated_at": "2025-05-05T20:22:37.643Z",
     "generate_pages_site": true
   },
   "annotations": {},
