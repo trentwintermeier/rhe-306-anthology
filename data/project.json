@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Community Focus"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Solutions"
         },
         {
@@ -390,7 +386,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:21:41.312Z",
+    "updated_at": "2025-05-05T20:21:44.092Z",
     "generate_pages_site": true
   },
   "annotations": {},
