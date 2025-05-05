@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Definition"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Visual"
         },
         {
@@ -310,7 +306,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:22:49.174Z",
+    "updated_at": "2025-05-05T20:22:52.397Z",
     "generate_pages_site": true
   },
   "annotations": {},
