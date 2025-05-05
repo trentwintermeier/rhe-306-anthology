@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Imagery"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Families"
         },
         {
@@ -282,7 +278,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:23:19.882Z",
+    "updated_at": "2025-05-05T20:23:23.859Z",
     "generate_pages_site": true
   },
   "annotations": {},
