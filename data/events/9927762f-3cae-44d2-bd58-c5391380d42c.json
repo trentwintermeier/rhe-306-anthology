@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "16632c94-172f-4236-946f-6d3841da8b9f": {
+      "label": "\"Keepin' Austin Austin\" by Sunny Bell",
+      "is_offline": false,
+      "file_url": "https://ia601801.us.archive.org/9/items/sunnys-podcast/Sunny%27s%20Podcast.m4a",
+      "duration": 488
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "\"Keepin' Austin Austin\" by Sunny Bell",
+  "created_at": "2025-05-05T19:06:18.319Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-05-05T19:06:18.319Z",
+  "updated_by": "trentwintermeier"
+}
