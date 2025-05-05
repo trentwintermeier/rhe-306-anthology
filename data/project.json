@@ -69,10 +69,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Affordable Housing"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Policy"
         },
         {
@@ -378,7 +374,7 @@
       ]
     },
     "created_at": "2025-05-05T18:34:51.659Z",
-    "updated_at": "2025-05-05T20:21:49.735Z",
+    "updated_at": "2025-05-05T20:21:52.632Z",
     "generate_pages_site": true
   },
   "annotations": {},
