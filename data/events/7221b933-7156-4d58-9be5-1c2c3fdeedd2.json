@@ -12,6 +12,20 @@
   "label": "\"Displaced\" by Christian Barrera",
   "created_at": "2025-05-05T19:06:18.319Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-05-05T19:06:18.319Z",
-  "updated_by": "trentwintermeier"
+  "updated_at": "2025-09-29T17:49:31.591Z",
+  "updated_by": "trentwintermeier",
+  "av_file_order": [
+    "8508ec35-8efc-4e0c-8c43-2055cc3208c4"
+  ],
+  "description": [
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Gentrification in Houston’s historically Black neighborhoods like Third and Fifth Ward is displacing long-time, lower income residents due to rising property taxes and redevelopment. This shift not only erodes cultural ties but also deepens systemic inequality. A potential solution lies in government-supported affordable housing programs like Austin’s S.M.A.R.T. Housing, which can help preserve communities by providing accessible living options for those most at risk.",
+          "textSize": "small"
+        }
+      ]
+    }
+  ]
 }
